@@ -1,0 +1,4 @@
+ABOUT BFS:  The BFS algorithm has nodes(vertices) and edges , it can also be looked at as an acyclic tree ,the practical implementations of BFS algorithm are as follows , 
+Web crawling, Peer to peer broadcasting in networking 
+BFS can be used to locate related objects in a large dataset by traversing their links in a similarity graph.
+BFS can also be used in image processing to fill an image with a specific color or to identify related pixels.
